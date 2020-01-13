@@ -1,3 +1,4 @@
 A new file
 Adding a new line (master branch)
 Adding another edit.
+Adding yet another sweet, sweet line.
